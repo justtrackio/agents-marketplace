@@ -1,0 +1,17 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "justtrack-platform",
+  "version": "0.1.0",
+  "description": "Connect to the justtrack platform MCP server",
+  "author": {
+    "name": "justtrack",
+    "url": "https://justtrack.io"
+  },
+  "homepage": "https://justtrack.io",
+  "repository": "https://github.com/justtrackio/agents-marketplace",
+  "license": "MIT",
+  "keywords": [
+    "justtrack",
+    "mcp"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "justtrack",
+  "interface": {
+    "displayName": "justtrack"
+  },
+  "plugins": [
+    {
+      "name": "justtrack-platform",
+      "source": {
+        "source": "local",
+        "path": "./plugins/justtrack-platform"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}
