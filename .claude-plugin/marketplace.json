@@ -1,0 +1,22 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "justtrack",
+  "description": "Plugins for the justtrack platform",
+  "owner": {
+    "name": "justtrack",
+    "url": "https://justtrack.io"
+  },
+  "plugins": [
+    {
+      "name": "justtrack-platform",
+      "source": "./plugins/justtrack-platform",
+      "description": "Connect to the justtrack platform MCP server",
+      "version": "0.1.0",
+      "category": "productivity",
+      "keywords": [
+        "justtrack",
+        "mcp"
+      ]
+    }
+  ]
+}

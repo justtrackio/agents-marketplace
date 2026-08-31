@@ -1,0 +1,31 @@
+{
+  "name": "justtrack-platform",
+  "version": "0.1.0",
+  "description": "Connect to the justtrack platform MCP server",
+  "author": {
+    "name": "justtrack",
+    "url": "https://justtrack.io"
+  },
+  "homepage": "https://justtrack.io",
+  "repository": "https://github.com/justtrackio/agents-marketplace",
+  "license": "MIT",
+  "keywords": [
+    "justtrack",
+    "mcp"
+  ],
+  "mcpServers": "./.mcp.json",
+  "interface": {
+    "displayName": "justtrack Platform",
+    "shortDescription": "Connect to the justtrack platform.",
+    "longDescription": "Use the justtrack platform MCP server through Streamable HTTP and OAuth.",
+    "developerName": "justtrack",
+    "category": "Productivity",
+    "capabilities": [],
+    "websiteURL": "https://justtrack.io",
+    "composerIcon": "./assets/icon.png",
+    "logo": "./assets/icon.png",
+    "defaultPrompt": [
+      "Show me what I can do with justtrack."
+    ]
+  }
+}

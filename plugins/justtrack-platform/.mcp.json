@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "justtrack": {
+      "type": "http",
+      "url": "https://mcp.justtrack.io/mcp"
+    }
+  }
+}
