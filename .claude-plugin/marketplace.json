@@ -1,0 +1,28 @@
+{
+  "$schema": "https://www.schemastore.org/claude-code-marketplace.json",
+  "name": "justtrack",
+  "owner": {
+    "name": "justtrack",
+    "url": "https://github.com/justtrackio"
+  },
+  "metadata": {
+    "description": "Plugins for working with the justtrack platform",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "justtrack-platform",
+      "source": "./plugins/justtrack-platform",
+      "description": "Connects Claude Code to the justtrack platform MCP server at https://mcp.justtrack.io/mcp",
+      "version": "1.0.0",
+      "category": "productivity",
+      "keywords": [
+        "justtrack",
+        "mcp",
+        "mobile-marketing",
+        "user-acquisition",
+        "analytics"
+      ]
+    }
+  ]
+}

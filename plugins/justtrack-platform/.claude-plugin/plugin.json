@@ -1,0 +1,25 @@
+{
+  "name": "justtrack-platform",
+  "version": "1.0.0",
+  "description": "Connects Claude Code to the justtrack platform MCP server at https://mcp.justtrack.io/mcp",
+  "author": {
+    "name": "justtrack",
+    "url": "https://justtrack.io"
+  },
+  "homepage": "https://justtrack.io",
+  "repository": "https://github.com/justtrackio/agents-marketplace",
+  "license": "MIT",
+  "keywords": [
+    "justtrack",
+    "mcp",
+    "mobile-marketing",
+    "user-acquisition",
+    "analytics"
+  ],
+  "mcpServers": {
+    "justtrack": {
+      "type": "http",
+      "url": "https://mcp.justtrack.io/mcp"
+    }
+  }
+}
