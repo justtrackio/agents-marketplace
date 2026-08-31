@@ -22,6 +22,8 @@
     "category": "Productivity",
     "capabilities": [],
     "websiteURL": "https://justtrack.io",
+    "composerIcon": "./assets/icon.png",
+    "logo": "./assets/icon.png",
     "defaultPrompt": [
       "Show me what I can do with justtrack."
     ]
