@@ -5,10 +5,10 @@
   },
   "plugins": [
     {
-      "name": "justtrack-platform",
+      "name": "justtrack",
       "source": {
         "source": "local",
-        "path": "./plugins/justtrack-platform"
+        "path": "./plugins/justtrack"
       },
       "policy": {
         "installation": "AVAILABLE",

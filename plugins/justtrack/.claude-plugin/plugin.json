@@ -1,8 +1,8 @@
 {
   "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
-  "name": "justtrack-platform",
+  "name": "justtrack",
   "version": "0.1.0",
-  "description": "Connect to the justtrack platform MCP server",
+  "description": "Connect to justtrack through its MCP server",
   "author": {
     "name": "justtrack",
     "url": "https://justtrack.io"
