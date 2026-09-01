@@ -1,7 +1,7 @@
 {
-  "name": "justtrack-platform",
+  "name": "justtrack",
   "version": "0.1.0",
-  "description": "Connect to the justtrack platform MCP server",
+  "description": "Connect to justtrack through its MCP server",
   "author": {
     "name": "justtrack",
     "url": "https://justtrack.io"
@@ -15,9 +15,9 @@
   ],
   "mcpServers": "./.mcp.json",
   "interface": {
-    "displayName": "justtrack Platform",
-    "shortDescription": "Connect to the justtrack platform.",
-    "longDescription": "Use the justtrack platform MCP server through Streamable HTTP and OAuth.",
+    "displayName": "justtrack",
+    "shortDescription": "Connect to justtrack.",
+    "longDescription": "Use justtrack through its MCP server with Streamable HTTP and OAuth.",
     "developerName": "justtrack",
     "category": "Productivity",
     "capabilities": [],
