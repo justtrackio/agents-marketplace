@@ -1,6 +1,14 @@
-# justtrack agent marketplace
+<p align="center">
+  <a href="https://justtrack.io/">
+    <img src="./plugins/justtrack/assets/icon.png" alt="justtrack" width="72">
+  </a>
+</p>
 
-Install the justtrack MCP plugin from this repository.
+<h1 align="center">justtrack agent marketplace</h1>
+
+<p align="center">
+  Connect Claude Code and Codex to justtrack through MCP.
+</p>
 
 ## Claude Code
 
@@ -46,3 +54,15 @@ Start a new Codex session after installation.
 
 Both clients connect to `https://mcp.justtrack.io/mcp` using Streamable HTTP and
 discover OAuth from the server. No token is stored in this repository.
+
+---
+
+<p align="center">
+  <a href="https://justtrack.io/">Website</a> ·
+  <a href="https://www.linkedin.com/company/justtrack/">LinkedIn</a> ·
+  <a href="https://www.instagram.com/justtrack.io/">Instagram</a> ·
+  <a href="https://justtrack.io/security/">Security</a> ·
+  <a href="https://justtrack.io/privacy-notice/">Privacy</a> ·
+  <a href="https://justtrack.io/terms-of-service/">Terms</a> ·
+  <a href="https://justtrack.io/imprint/">Imprint</a>
+</p>

@@ -22,6 +22,8 @@
     "category": "Productivity",
     "capabilities": [],
     "websiteURL": "https://justtrack.io",
+    "privacyPolicyURL": "https://justtrack.io/privacy-notice/",
+    "termsOfServiceURL": "https://justtrack.io/terms-of-service/",
     "composerIcon": "./assets/icon.png",
     "logo": "./assets/icon.png",
     "defaultPrompt": [
