@@ -6,11 +6,14 @@ Install the justtrack MCP plugin from this repository.
 
 ### Desktop app
 
-1. Start a local or SSH session.
-2. Click **+** next to the prompt, then select **Plugins** and **Add plugin**.
-3. Open **Marketplaces** and add `justtrackio/agents-marketplace`.
-4. Find **justtrack**, click **+**, and choose an installation scope.
-5. Run `/mcp` to sign in with OAuth and check the connection.
+1. Click **+** next to the prompt, then select **Plugins** and **Browse plugins**.
+2. Select **Personal**, then click **+** (**Add marketplace**).
+3. Enter `justtrackio/agents-marketplace` as the **URL**, keep
+   **Sync automatically** enabled, and click **Sync**.
+4. Select **agents-marketplace**, find **justtrack**, and click **+**
+   (**Install**).
+5. Open **justtrack**, then click **Connect** under **Connectors** and complete
+   OAuth in the browser.
 
 ### CLI
 
